@@ -1,9 +1,20 @@
-compititors and research problems 
+# Research Notes
 
-Relevant Tools/Companies
+## 1. Problem Statements
+- 
 
-  Synopsys (Design Compiler, ICC2, DSO.ai)
-  Cadence (Innovus, Jasper)
-  Google Gemini AI
-  ChatGPT plugins
-  Perplexity AI
+## 2. Existing Solutions / Competitors
+- ChatGPT / Copilot / Perplexity
+- Synopsys / Cadence (potential in-house AI)
+
+## 3. EDA Tools & Challenges
+- Synopsys ICC2, DC, Cadence Innovus, Virtuoso, FPGA tools
+- difficult to find the terminal commands , navigate though tool features
+
+## 4. Chatbots in Technical Domains
+- General-purpose chatbots (ChatGPT, Claude, etc.)
+- Domain-specific assistants , None
+
+## 5. Opportunity for VLSI-AI-Copilot
+- 
+
